@@ -1,6 +1,7 @@
 # Facebook Solana Blockchain
 
 ## Technologies
+
 - Next.js
 - Tailwind CSS
 - TypeScript
