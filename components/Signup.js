@@ -1,6 +1,6 @@
 import Image from 'next/image';
 
-const Signup = ({ setRegistered, name, setname, url, setUrl }) => {
+const Signup = ({ setRegistered, name, setName, url, setUrl }) => {
 	const style = {
 		wrapper: `flex flex-col p-4 justify-center items-center h-full w-full bg-[#252526] w-min h-min rounded-2xl`,
 		title: `text-[#afb3b8] font-semibold text-lg`,
