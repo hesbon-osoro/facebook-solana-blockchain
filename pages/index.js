@@ -4,6 +4,7 @@ import Signup from '../components/Signup';
 import Header from '../components/Header';
 import Feed from '../components/Feed';
 import Sidebar from '../components/Sidebar';
+import RightSidebar from '../components/RightSidebar';
 
 const style = {
 	wrapper: `bg-[#18191a] min-h-screen duration-[o.5s]`,
